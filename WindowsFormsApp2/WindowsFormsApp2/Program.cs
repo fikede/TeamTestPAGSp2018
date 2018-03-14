@@ -23,5 +23,10 @@ namespace WindowsFormsApp2
         {
             return 0;
         }
+
+        static void TestCommit()
+        {
+            // this is a test.
+        }
     }
 }
